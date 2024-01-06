@@ -9,11 +9,19 @@ Welcome to the **Hangman MiniGame** repository! 🎉 This Python-based Hangman M
 - **Visual Representation:** Watch as the Hangman figure takes shape with each incorrect guess.
 - **Win/Loss Notification:** Receive instant feedback on your performance—either celebrate your victory or commiserate with the completed Hangman figure.
 
-## 🎮 Getting Started
+## 🎮 How to Play
 1. **Clone the repository** to your local machine.
-2. **Run the Python script** to start the Hangman game.
-3. **Guess letters** to uncover the hidden word or phrase.
+2. **Run the Python script (`hangman.py`)** to start the Hangman game.
+3. **Guess letters or words** to uncover the hidden word or phrase.
 4. **Challenge your friends** and see who can conquer the Hangman!
+
+## ⚙️ Getting Started
+1. Ensure you have **Python 3.x or higher** installed on your machine.
+2. Navigate to the project directory and run the following command in your terminal:
+    ```bash
+    python hangman.py
+    ```
+3. Follow the on-screen instructions to play the game.
 
 ## 🛠️ Requirements
 - **Python 3.x or higher**
@@ -29,4 +37,4 @@ Contributions are welcome! Feel free to add new features, improve the game logic
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-**Ready to embark on a word-guessing adventure? Clone the repo, start the game, and may the best Hangman solver win!** 🎈 **Happy Coding!** 🚀
+**Ready to unravel the mystery words and become the ultimate Hangman champion? Clone the repo, start the game, and let the guessing games begin!** 🎈 **Happy Coding!** 🚀
